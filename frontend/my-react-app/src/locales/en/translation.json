@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Delicious food delivered to your door",
+    "subtitle": "Order from the best restaurants in your area",
+    "search": "Search restaurants or dishes...",
+    "all": "All",
+    "noRestaurants": "No restaurants found. Try a different search.",
+    "closed": "Closed",
+    "new": "New",
+    "various": "Various cuisines",
+    "min": "min",
+    "delivery": "delivery"
+  }
+}
